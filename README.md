@@ -1,16 +1,13 @@
-# practical_exam2
+# Gujarat Tourism Mobile Application
 
-A new Flutter project.
+flutter application named Gujarat Tourist Guide that serves as a digital companion for tourists visiting Gujarat.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User Registration:** Implement a module that allows new users to register and log in to the system securely.
+  
+- **Ticket Generation:** Provide functionality for users to generate or book tickets for tourist attractions. This may include generating a unique ticket number and displaying relevant visit details.
 
-A few resources to get you started if this is your first Flutter project:
+- **List of Tourist Places:** Display a curated list of different tourist destinations across Gujarat with brief descriptions, images, or any relevant information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Made By Kushal Desai
